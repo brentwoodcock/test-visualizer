@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import CommentBox from './components/CommentBox';
+import LocationDropdown from './components/LocationDropdown';
 
 ReactDOM.render(
-  <CommentBox />,
+  <LocationDropdown />,
   document.getElementById('root')
 );
